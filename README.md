@@ -1,54 +1,17 @@
-# Astro Starter Kit: Basics
+# Rediseño pagina web biblioteca Utadeo
 
-```sh
-npm create astro@latest -- --template basics
-```
+### Descripción del Proyecto:
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Hacer un rediseño completo a la pagina web de la biblioteca de la universidad de Bogotá Jorge Tadeo Lozano.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+### Objetivos:
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Generar un nuevo diseño para la pagina de la biblioteca, adicionalmente generar el proyecto usando tecnologías como html, css y javascript.
 
-## 🚀 Project Structure
+### Aclaración:
 
-Inside of your Astro project, you'll see the following folders and files:
+Este es un proyecto personal realizado por Jair Ochoa (Estudiante de la Utadeo) con fines exclusivamente académicos. La página web utiliza imágenes de la Universidad Jorge Tadeo Lozano con el fin de informar sobre la universidad, sus programas académicos, sus actividades y sus logros. Las imágenes están acompañadas de un crédito que indica la fuente, es decir, la Universidad Jorge Tadeo Lozano. Las imágenes no han sido alteradas ni distorsionadas de ninguna manera.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+Si la página web incluye imágenes de personas, estas han sido autorizadas expresamente por las mismas.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+La Universidad Jorge Tadeo Lozano no tiene ninguna relación con la página web [nombre de la página web] y no respalda ni aprueba su contenido.
