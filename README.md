@@ -6,7 +6,7 @@ Hacer un rediseño completo a la pagina web de la biblioteca de la universidad d
 
 ### Objetivos:
 
-Generar un nuevo diseño para la pagina de la biblioteca, adicionalmente generar el proyecto usando tecnologías como html, css y javascript.
+Generar un nuevo diseño para la pagina de la biblioteca, adicionalmente generar el proyecto usando tecnologías como Astro.
 
 ### Aclaración:
 
@@ -14,4 +14,4 @@ Este es un proyecto personal realizado por Jair Ochoa (Estudiante de la Utadeo) 
 
 Si la página web incluye imágenes de personas, estas han sido autorizadas expresamente por las mismas.
 
-La Universidad Jorge Tadeo Lozano no tiene ninguna relación con la página web [nombre de la página web] y no respalda ni aprueba su contenido.
+La Universidad Jorge Tadeo Lozano no tiene ninguna relación con la página web y no respalda ni aprueba su contenido.
